@@ -2,6 +2,8 @@
 
 This project is a simple HTTP server implemented in Python. The primary motivation behind this project was to learn how to create an HTTP server from scratch, handle various HTTP methods, and implement response compression using gzip.
 
+>This project is a follow-along challenge from [CodeCrafters](https://app.codecrafters.io/courses/http-server/overview)
+
 ## Features
 
 - **Basic HTTP Methods**: Supports GET and POST requests.
